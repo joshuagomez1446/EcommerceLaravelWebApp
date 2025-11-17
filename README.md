@@ -55,5 +55,5 @@ Use this account to access the admin dashboard.
 Use this account to test normal user features.
 
 **Email:** customer1@gmail.com
-**Password:** Customer1234
+**Password:** Customer123
 # EcommerceLaravelWebApp
