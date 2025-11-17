@@ -57,5 +57,3 @@ Use this account to test normal user features.
 **Email:** customer1@gmail.com
 **Password:** Customer1234
 # EcommerceLaravelWebApp
-# EcommerceLaravelWebApp
-# EcommerceLaravelWebApp
